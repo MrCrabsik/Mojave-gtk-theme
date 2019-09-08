@@ -1,6 +1,6 @@
 - Gnome Tweak Tools - $ sudo apt install gnome-tweaks
 - Gnome Exts - $ sudo apt install chrome-gnome-shell
-- Blyr - https://extensions.gnome.org/extension/1251/blyr/
+- Blyr - https://extensions.gnome.org/extension/1251/blyr/ | fix for ubuntu - $ sudo apt install gir1.2-gtkclutter-1.0
 - Dash to Dock - https://extensions.gnome.org/extension/307/dash-to-dock/
 - User Themes - https://extensions.gnome.org/extension/19/user-themes/
 - OpenWeather - https://extensions.gnome.org/extension/750/openweather/
