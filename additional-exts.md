@@ -1,6 +1,7 @@
-- Gnome Tweak Tools - $ sudo apt install gnome-tweak-tool
+- Gnome Tweak Tools - $ sudo apt install gnome-tweaks
 - Gnome Exts - $ sudo apt install chrome-gnome-shell
 - Blyr - https://extensions.gnome.org/extension/1251/blyr/
 - Dash to Dock - https://extensions.gnome.org/extension/307/dash-to-dock/
 - User Themes - https://extensions.gnome.org/extension/19/user-themes/
 - OpenWeather - https://extensions.gnome.org/extension/750/openweather/
+- Pomodoro - https://gnomepomodoro.org/ - $ sudo apt-get install gnome-shell-pomodoro
